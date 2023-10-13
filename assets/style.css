@@ -1088,7 +1088,7 @@ button {
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 2;
-  line-clamp: 2;
+  /* line-clamp: 2; */
   -webkit-box-orient: vertical;
   max-height: 1em;
   margin-bottom: 24px;
