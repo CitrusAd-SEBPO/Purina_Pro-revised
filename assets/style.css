@@ -1303,8 +1303,7 @@ button {
 
 .citrus_purina__packages
   .citrus_purina__packages_wrapper
-  .citrus_purina__packages_wrapper--single-package
-  a {
+  .citrus_purina__packages_wrapper--single-package {
   display: block;
   text-align: center;
 }
@@ -1312,7 +1311,6 @@ button {
 .citrus_purina__packages
   .citrus_purina__packages_wrapper
   .citrus_purina__packages_wrapper--single-package
-  a
   .single-package__img {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1322,7 +1320,6 @@ button {
 .citrus_purina__packages
   .citrus_purina__packages_wrapper
   .citrus_purina__packages_wrapper--single-package
-  a
   .single-package__text
   h3 {
   font-size: 20px;
